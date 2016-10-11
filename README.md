@@ -1,3 +1,7 @@
+**DEPRECATED: See [bouzuya/mr-jums][] **
+
+[bouzuya/mr-jums]: https://github.com/bouzuya/mr-jums
+
 ![bbn-cycle logo](https://cloud.githubusercontent.com/assets/1221346/18084759/6d28b41c-6ee3-11e6-8f62-5eb0d8f673c0.png)
 
 bbn-cycle is a html generator for bbn: blog.bouzuya.net using Cycle.js
